@@ -1,0 +1,13 @@
+{
+    "name": "SimpleCaptcha",
+    "alias": "simplecaptcha",
+    "description": "Simple math and image CAPTCHA for form protection without external services",
+    "keywords": ["captcha", "math", "image", "security", "spam"],
+    "priority": 0,
+    "providers": [
+        "Modules\\SimpleCaptcha\\Providers\\SimpleCaptchaServiceProvider"
+    ],
+    "files": [],
+    "version": "1.0.0",
+    "type": "captcha"
+}

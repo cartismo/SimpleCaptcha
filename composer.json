@@ -1,0 +1,12 @@
+{
+    "name": "cartismo/simple-captcha",
+    "description": "Simple math and image CAPTCHA for Cartismo",
+    "type": "laravel-module",
+    "license": "proprietary",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Modules\\SimpleCaptcha\\": ""
+        }
+    }
+}
